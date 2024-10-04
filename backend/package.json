@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zaid1303/connectu-common": "^1.0.0",
+    "@zaid1303/connectu2-common": "^1.0.0",
+    "@zaid1303/connectu3-common": "^1.0.0",
+    "@zaid1303/connectu4-common": "^1.0.0",
+    "@zaid1303/connectu5-common": "^1.0.0",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "cron": "^3.1.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "moment-timezone": "^0.5.45",
+    "mongoose": "^8.6.3",
+    "node-cron": "^3.0.3",
+    "twilio": "^5.3.1"
+  }
+}
