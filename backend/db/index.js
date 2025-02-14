@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect("mongodb+srv://zaidkh1303:mdzaid13@cluster0.2mghbnx.mongodb.net/ConnectU");
+mongoose.connect(process.env.MONGO_URI);
 
 const ClientSchema = new mongoose.Schema({
     name:String,
