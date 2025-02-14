@@ -34,6 +34,7 @@
 Create a .env file in the root directory with the following:**
 
 ```env
+MONGO_URI= "YOUR MONGO URL CONNECTION STRING"
 Accountsid="ACd6702083ff72a4a2214750ce8091c0b3"
 Accounttoken="ed283acb32956af35729346646a282ea"
 from="+12246287416"
