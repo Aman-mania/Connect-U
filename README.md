@@ -34,12 +34,9 @@
 Create a .env file in the root directory with the following:**
 
 ```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-RAZORPAY_KEY=your_razorpay_api_key
-TWILIO_SID=your_twilio_sid
-TWILIO_AUTH_TOKEN=your_twilio_auth_token
+Accountsid="ACd6702083ff72a4a2214750ce8091c0b3"
+Accounttoken="ed283acb32956af35729346646a282ea"
+from="+12246287416"
 ```
 
 4. **Start the Server:**
