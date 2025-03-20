@@ -17,7 +17,7 @@
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT, OAuth
-- **APIs & Services:** Razorpay API, Twilio API
+- **APIs & Services:** Socket.io, Twilio API
 - **Deployment & DevOps:** Docker, Kubernetes
 
 ## 📦 Installation
